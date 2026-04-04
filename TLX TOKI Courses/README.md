@@ -1,3 +1,10 @@
+## Pemrograman Kompetitif Dasar
+<table>
+<tr>
+</tr>
+<tr>
+<td valign="top">  
+
 TLX TOKI Pemrograman Kompetitif Dasar (21/88)
 1. Perkenalan Kompetitif Dasar  ✅
 |---> Perkenalan Soal Implementasi  
