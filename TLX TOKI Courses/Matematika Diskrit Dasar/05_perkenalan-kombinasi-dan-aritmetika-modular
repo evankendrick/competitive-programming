@@ -1,0 +1,35 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+long long maxn = 1000;
+long long mod = 1e9+7;
+
+long long precompute(int x, int y, int z) {
+
+    long long pas[maxn + 1][maxn + 1];
+
+    for(int i = 0; i <= maxn; i++) {
+        pas[i][0] = 1;
+
+        for(int j = 1; j <= i - 1; j++) {
+            pas[i][j] = (pas[i-1][j-1] + pas[i-1][j]) % mod;
+        }
+
+        pas[i][i] = 1;
+    }
+
+    long long ans = 0;
+
+    for(int k = y; k <= z; k++) {
+        ans = (ans + pas[x][k]) % mod;
+    }
+
+    return ans;
+}
+
+int main() {
+    int n,a,b;
+    cin >> n >> a >> b;
+
+    cout << precompute(n,a,b);
+}
