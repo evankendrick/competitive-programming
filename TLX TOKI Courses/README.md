@@ -1,40 +1,49 @@
-## Pemrograman Kompetitif Dasar
-<table>
-<tr>
-</tr>
-<tr>
-<td valign="top">  
+# 📘 TLX TOKI – Pemrograman Kompetitif Dasar
 
-TLX TOKI Pemrograman Kompetitif Dasar (21/88)
-1. Perkenalan Kompetitif Dasar  ✅
-|---> Perkenalan Soal Implementasi  
-|---> Operasi Matriks 
-|---> Runtuh  
-|---> Menyelidiki Pesan
-|---> Pola String
+**Progress: 21 / 88**
 
-2. Matematika Diskit Dasar
-|---> Bilangan Agak Prima ✅
-|---> Faktorisasi Prima  ✅
-|---> Perkenalan Sieve Of Erastosthenes  ✅
-|---> Perkenalan FPB  ✅
-|---> Perkenalan Kombinasi & Aritmetika Modular  ✅
-|---> Kandang Segitiga  ✅
-|---> Pasar Rakyat  ✅
-|---> Pemberat  ✅
-|---> Angka 3  ✅
-|---> Berbagi Candil  ✅
+---
 
-3. Pencarian & Pengurutan 
-|---> Perkenalan Pencarian Linear  ✅
-|---> Perkenalan Pengurutan  ✅
-|---> Perkenalan Pengurutan II  ✅
-|---> Perkenalan Pengurutan Gelembung  ✅
-|---> Perkenalan Pencarian Biner  ✅
-|---> Perkenalan Pencarian Biner II  ✅
-|---> Lari Jauh
+## 1️⃣ Perkenalan Kompetitif Dasar
 
-4. Brute Force
-|---> Perkenalan Brute Force  ✅
-|---> Perkenalan Brute Force : Backtracking  ✅
-|---> Jawbreaker I : Klik
+- [x] Perkenalan Kompetitif Dasar
+- [ ] Perkenalan Soal Implementasi
+- [ ] Operasi Matriks
+- [ ] Runtuh
+- [ ] Menyelidiki Pesan
+- [ ] Pola String
+
+---
+
+## 2️⃣ Matematika Diskrit Dasar
+
+- [x] Bilangan Agak Prima
+- [x] Faktorisasi Prima
+- [x] Pengenalan Sieve of Eratosthenes
+- [x] Pengenalan FPB
+- [x] Pengenalan Kombinasi & Aritmetika Modular
+- [x] Kandang Segitiga
+- [x] Pasar Rakyat
+- [x] Pemberat
+- [x] Angka 3
+- [x] Berbagi Candi
+
+---
+
+## 3️⃣ Pencarian & Pengurutan
+
+- [x] Pengenalan Pencarian Linear
+- [x] Pengenalan Pengurutan
+- [x] Pengenalan Pengurutan II
+- [x] Pengenalan Pengurutan Gelembung
+- [x] Pengenalan Pencarian Biner
+- [x] Pengenalan Pencarian Biner II
+- [ ] Lari Jauh
+
+---
+
+## 4️⃣ Brute Force
+
+- [x] Pengenalan Brute Force
+- [x] Brute Force: Backtracking
+- [ ] Jawbreaker I: Klik
