@@ -38,7 +38,7 @@
 - [x] Pengenalan Pengurutan Gelembung
 - [x] Pengenalan Pencarian Biner
 - [x] Pengenalan Pencarian Biner II
-- [ ] Lari Jauh
+- [x] Lari Jauh
 
 ---
 
