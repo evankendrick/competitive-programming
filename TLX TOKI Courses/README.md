@@ -1,4 +1,4 @@
-# 📘 TLX TOKI – Pemrograman Kompetitif Dasar
+# TLX TOKI Pemrograman Kompetitif Dasar
 
 **Progress: 21 / 88**
 
