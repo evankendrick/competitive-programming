@@ -5,7 +5,7 @@ TLX TOKI Pemrograman Kompetitif Dasar (21/88)
 |---> Runtuh  
 |---> Menyelidiki Pesan
 |---> Pola String
-|
+
 2. Matematika Diskit Dasar
 |---> Bilangan Agak Prima ✅
 |---> Faktorisasi Prima  ✅
@@ -17,9 +17,8 @@ TLX TOKI Pemrograman Kompetitif Dasar (21/88)
 |---> Pemberat  ✅
 |---> Angka 3  ✅
 |---> Berbagi Candil  ✅
-|
+
 3. Pencarian & Pengurutan 
-|
 |---> Perkenalan Pencarian Linear  ✅
 |---> Perkenalan Pengurutan  ✅
 |---> Perkenalan Pengurutan II  ✅
@@ -27,9 +26,8 @@ TLX TOKI Pemrograman Kompetitif Dasar (21/88)
 |---> Perkenalan Pencarian Biner  ✅
 |---> Perkenalan Pencarian Biner II  ✅
 |---> Lari Jauh
-|
+
 4. Brute Force
-|
 |---> Perkenalan Brute Force  ✅
 |---> Perkenalan Brute Force : Backtracking  ✅
 |---> Jawbreaker I : Klik
