@@ -5,15 +5,15 @@
 <tr>
 <td valign="top">  
 
-# TLX TOKI Pemrograman Kompetitif Dasar (21/88)
-# 1. Perkenalan Kompetitif Dasar  ✅
+TLX TOKI Pemrograman Kompetitif Dasar (21/88)
+1. Perkenalan Kompetitif Dasar  ✅
 |---> Perkenalan Soal Implementasi  
 |---> Operasi Matriks 
 |---> Runtuh  
 |---> Menyelidiki Pesan
 |---> Pola String
 
-# 2. Matematika Diskit Dasar
+2. Matematika Diskit Dasar
 |---> Bilangan Agak Prima ✅
 |---> Faktorisasi Prima  ✅
 |---> Perkenalan Sieve Of Erastosthenes  ✅
@@ -25,7 +25,7 @@
 |---> Angka 3  ✅
 |---> Berbagi Candil  ✅
 
-# 3. Pencarian & Pengurutan 
+3. Pencarian & Pengurutan 
 |---> Perkenalan Pencarian Linear  ✅
 |---> Perkenalan Pengurutan  ✅
 |---> Perkenalan Pengurutan II  ✅
@@ -34,7 +34,7 @@
 |---> Perkenalan Pencarian Biner II  ✅
 |---> Lari Jauh
 
-# 4. Brute Force
+4. Brute Force
 |---> Perkenalan Brute Force  ✅
 |---> Perkenalan Brute Force : Backtracking  ✅
 |---> Jawbreaker I : Klik
